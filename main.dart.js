@@ -62025,7 +62025,7 @@ $0(){return A.f7(this.a,"/about/",t.X)},
 $S:0}
 A.D0.prototype={
 R(a){var s=A.aeh(null,B.fN,null)
-return new A.to(A.aI(["/",new A.Vy(),"/menuScreen/",new A.Vz(),"/about/",new A.VA(),"/experience/",new A.VB(),"/projects/",new A.VC(),"/speaking/",new A.VD()],t.N,t.Ab),"/","Flutter Demo",s,!1,null)}}
+return new A.to(A.aI(["/",new A.Vy(),"/menuScreen/",new A.Vz(),"/about/",new A.VA(),"/experience/",new A.VB(),"/projects/",new A.VC(),"/speaking/",new A.VD()],t.N,t.Ab),"/","fz3hra's Portfolio",s,!1,null)}}
 A.Vy.prototype={
 $1(a){return B.yq},
 $S:376}
